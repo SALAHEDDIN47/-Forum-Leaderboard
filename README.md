@@ -11,11 +11,11 @@ The **Forum Leaderboard** is a dynamic ranking system that highlights the most a
 - 📅 **Time-Based Filters** – View rankings for daily, weekly, or all-time performance.
 
 ## 🛠️ Technologies Used
-- ⚛️ React / Vue / Angular (Frontend)
-- 🖥️ Node.js / Express (Backend)
-- 🗄️ MongoDB / PostgreSQL (Database)
-- 📡 WebSockets / Firebase (Real-Time Updates)
-- 🎨 Tailwind CSS / Bootstrap (Styling)
+- ⚛️ React  (Frontend)
+- 🖥️ Node.js  (Backend)
+- 🗄️ MongoDB  (Database)
+- 📡 WebSockets  (Real-Time Updates)
+- 🎨 Tailwind CSS (Styling)
 
 ## 🚀 How to Run
 1. Clone the repository:
